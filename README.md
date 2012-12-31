@@ -3,7 +3,7 @@ This readme file is only in italian for now, soon we'll provide an english trans
 Gas App Solution - L’altra faccia del GAS
 (e ora, qualcosa di completamente diverso!)
 
-Cosa è?
+<b>Cosa è?</b>
 Gas App Solution (o anche gasapp) vuole essere uno strumento pronto per tutti i gestori di gruppi di acquisto solidale (o GAS in acronimo); l’intenzione degli ideatori è di fornire uno strumento pronto per chiunque voglia gestire il proprio gruppo senza avere necessariamente le conoscenze informatiche richieste.
 
 Perché questo nome di progetto?
